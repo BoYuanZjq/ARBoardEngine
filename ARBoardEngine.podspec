@@ -136,6 +136,6 @@ Pod::Spec.new do |spec|
 
   # spec.xcconfig = { "HEADER_SEARCH_PATHS" => "$(SDKROOT)/usr/include/libxml2" }
   # spec.dependency "JSONKit", "~> 1.4"
-  s.dependency "Socket.IO-Client-Swift", '~> 14.0.0'
-  s.dependency "SDWebImage", '~> 5.0.0'
+  spec.dependency "Socket.IO-Client-Swift", '~> 14.0.0'
+  spec.dependency "SDWebImage", '~> 5.0.0'
 end

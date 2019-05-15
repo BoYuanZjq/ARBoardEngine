@@ -80,7 +80,7 @@ Pod::Spec.new do |spec|
   #  Supports git, hg, bzr, svn and HTTP.
   #
 
-  spec.source       = { :git => "https://github.com/BoYuanZjq/ARBoardEngine.git", :tag => "#{s.version}",:submodules => true }
+  spec.source       = { :git => "https://github.com/BoYuanZjq/ARBoardEngine.git", :tag => "#{spec.version}",:submodules => true }
 
 
   # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #

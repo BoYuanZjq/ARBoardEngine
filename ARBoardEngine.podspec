@@ -16,7 +16,7 @@ Pod::Spec.new do |spec|
   #
 
   spec.name         = "ARBoardEngine"
-  spec.version      = "3.0.2"
+  spec.version      = "3.0.3"
   spec.summary      = "A short description of ARBoardEngine."
 
   # This description is used to generate tags and improve search results.
